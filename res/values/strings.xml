@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StartLearning</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start_button_display_name">Start button</string>
+    <string name="stop_button_display_name">Stop button</string>
+    <string name="title_activity_text__text_view">Text_TextViewActivity</string>
+    <string name="EnterChar">Nhap chuoi bat ky</string>
+    <string name="ChuoiVuaNhap">Chuoi ban nhap se hien thi o day!</string>
+    <string name="ClickMe">Click de hien thi text</string>
+    <string name="MustEnterString">Ban khong the nhap chuoi ky tu trong</string>
+    <string name="title_activity_image__image_view">Image_ImageViewActivity</string>
+    <string name="vietnam">Viet nam</string>
+    <string name="canada">Canada</string>
+    <string name="gb">Gb</string>
+    <string name="south_korea">Nam hàn</string>
+    <string name="sweden">Sweden</string>
+    <string name="usa">USA</string>
+    <string name="changeImage">Change image</string>
+    <string name="title_activity_listview">ListviewActivity</string>
+    <string name="list">Danh Sach</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">action_refresh</string>
+    <string name="title_activity_rssfeed">RssfeedActivity</string>
+    <string name="title_activity_action_bar">ActionBarActivity</string>
+
+</resources>
