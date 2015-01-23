@@ -32,15 +32,19 @@
         <activity
             android:name=".RssfeedActivity"
             android:label="@string/title_activity_rssfeed" >
+        </activity>
+        <activity
+            android:name=".ActionBarActivity"
+            android:label="@string/title_activity_action_bar" >
+        </activity>
+        <activity
+            android:name=".RecyclerViewActivity"
+            android:label="@string/title_activity_recycler_view" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity
-            android:name=".ActionBarActivity"
-            android:label="@string/title_activity_action_bar" >
         </activity>
     </application>
 

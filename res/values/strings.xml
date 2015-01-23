@@ -25,5 +25,7 @@
     <string name="action_refresh">action_refresh</string>
     <string name="title_activity_rssfeed">RssfeedActivity</string>
     <string name="title_activity_action_bar">ActionBarActivity</string>
+    <string name="title_activity_recycler_view">RecyclerViewActivity</string>
+    <string name="contentDescription">This is contentDescription</string>
 
 </resources>
